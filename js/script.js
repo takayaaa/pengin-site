@@ -9,9 +9,9 @@ jQuery(window).on('scroll', function () {
     $(function() {
         $('#vegas').vegas({
             slides: [
-                { src: '/img/fv-bgi_01@2x.jpg'},
-                { src: '/img/fv-bgi_02@2x.jpg'},
-                { src: '/img/fv-bgi_03@2x.jpg'},
+                { src: 'https://github.com/takayaaa/pengin-site/blob/main/img/fv-bgi_01@2x.jpg?raw=true'},
+                { src: 'https://github.com/takayaaa/pengin-site/blob/main/img/fv-bgi_02@2x.jpg?raw=true'},
+                { src: 'https://github.com/takayaaa/pengin-site/blob/main/img/fv-bgi_03@2x.jpg?raw=true'},
             ],
             transition: 'fade'
         });

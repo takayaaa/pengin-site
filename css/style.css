@@ -761,7 +761,7 @@ body {
   width: 33%;
   height: auto;
   position: relative;
-  background: url(/img/service-img01@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/takayaaa/pengin-site/blob/main/img/service-img01@2x.jpg?raw=true) no-repeat center center/cover;
   -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
           box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
@@ -793,7 +793,7 @@ body {
 }
 
 .planning_item {
-  background: url(/img/service-img02@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/takayaaa/pengin-site/blob/main/img/service-img02@2x.jpg?raw=true) no-repeat center center/cover;
   width: 33%;
   position: relative;
   -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
@@ -826,7 +826,7 @@ body {
 }
 
 .direction_item {
-  background: url(/img/sevice-img03@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/takayaaa/pengin-site/blob/main/img/sevice-img03@2x.jpg?raw=true) no-repeat center center/cover;
   width: 33%;
   position: relative;
   -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);

@@ -490,7 +490,7 @@ body {
 }
 
 .works {
-  background: url(/img/works-bgi@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/takayaaa/pengin-site/blob/main/img/works-bgi@2x.jpg?raw=true) no-repeat center center/cover;
 }
 
 .works_inner {
@@ -878,7 +878,7 @@ body {
 }
 
 .contact {
-  background: url(/img/contact-bgi@2x.jpg) no-repeat center center/cover;
+  background: url(https://github.com/takayaaa/pengin-site/blob/main/img/contact-bgi@2x.jpg?raw=true) no-repeat center center/cover;
 }
 
 .contact_inner {

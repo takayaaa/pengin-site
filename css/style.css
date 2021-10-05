@@ -216,6 +216,12 @@ body {
   }
 }
 
+@media (max-width: 767px) {
+  .drawer--right .drawer-hamburger {
+    right: 40px;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 1024px) {
   .drawer--right.drawer-open .drawer-hamburger {
     right: 16.5rem;
@@ -224,7 +230,7 @@ body {
 
 @media (max-width: 767px) {
   .drawer--right.drawer-open .drawer-hamburger {
-    right: 14.5rem;
+    right: 8.5rem;
   }
 }
 
@@ -238,7 +244,7 @@ body {
 
 @media (max-width: 767px) {
   .drawer-nav {
-    width: 14.25em;
+    width: 8.25em;
   }
 }
 

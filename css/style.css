@@ -208,9 +208,7 @@ body {
   background-color: #fff;
 }
 
-.drawer--right .drawer-hamburger {
-  right: 60px;
-}
+
 
 @media (min-width: 768px) and (max-width: 1024px) {
   .drawer--right .drawer-hamburger {
